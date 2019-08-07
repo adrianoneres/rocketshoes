@@ -1,6 +1,6 @@
 # Rocketshoes
 
-Rocketshoes is a small e-commerce app build with React JS.
+Rocketshoes is a small e-commerce app built with React JS.
 
 ![](rocketshoes.gif)
 
